@@ -6,6 +6,7 @@ Client wants to start a bikesharing business in her home town. She needs to unde
 ## Results
 Here is a link to Tableau story based on NYC august 2019 data provided from a similar business.
 https://public.tableau.com/shared/89DR8S8JH?:display_count=n&:origin=viz_share_link
+
 And in this repository there is a  PDF file of the same story.
 
 ## Summery
